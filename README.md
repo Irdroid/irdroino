@@ -32,4 +32,8 @@ I made this project because I believe in open source software and open source ha
 #### What makes it special?
 
 The Irdroino is special, because it uses a unique optical signal amplification which give significantly improoved IR range. This gives a big advantage in comparison with similar products. It is open source hardware which gives the user a freedom and it has a high quality IR receiver IC
- 
+
+#### Get a module:
+
+* [Get a module from Irdroid](https://irdroid.eu/product/irdroino-infrared-shield-arduino/) 
+* [Get a module from Tindie](https://www.tindie.com/products/irdroid/irdroino-infrared-shield-for-arduino/) 
