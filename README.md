@@ -1,7 +1,9 @@
-![Irdroino](https://raw.githubusercontent.com/Irdroid/irdroino/master/Hardware/Photos/irdroino_1.png)
+
 ### What is it?
 
 Irdroino is a high quality infrared remote control shield for Arduino. Irdroino is powered by Irdroid’s experience in developing infrared products and it is a open source hardware project.
+
+![Irdroino](https://raw.githubusercontent.com/Irdroid/irdroino/master/Hardware/Photos/irdroino_1.png)
 
 Use Irdroino to replicate signals from your existing remote controls, assign actions for the tx and rx keys of the shield. Control Air Conditioners, TVs , STBs, Music, and more. The Irdroino will help you also if you develop custom remote controls.
 
