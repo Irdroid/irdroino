@@ -24,7 +24,7 @@ The Irdroino comes in a compact form factor, it extends the pin headers of your 
 * Open Source Hardware’s
 
 
-#### Why did you make it?
+#### Why we made it?
 
 I made this project because I believe in open source software and open source hardware, and I am passionate in developing free and open source infrared modules and things
 
