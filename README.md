@@ -1,3 +1,4 @@
+![Irdroino](https://raw.githubusercontent.com/Irdroid/irdroino/master/Hardware/Photos/irdroino_1.png)
 #### What is it?
 
 Irdroino is a high quality infrared remote control shield for Arduino. Irdroino is powered by Irdroid’s experience in developing infrared products and it is a open source hardware project.
