@@ -13,7 +13,7 @@ The Irdroino comes in a compact form factor, it extends the pin headers of your 
 
 # Video
 
-[![Watch the video](https://irdroid.github.io/irdroino/Irdroino_demo.png)](https://www.youtube.com/watch?v=hGpqAQRMAZQ)
+[![Watch the video](https://raw.githubusercontent.com/Irdroid/irdroino/master/Irdroino_demo.png)](https://www.youtube.com/watch?v=hGpqAQRMAZQ)
 
 ### The Irdroino is compatible with :
 
