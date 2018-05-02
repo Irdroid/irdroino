@@ -11,6 +11,10 @@ The module is designed with low power consumption considerations in mind and it 
 
 The Irdroino comes in a compact form factor, it extends the pin headers of your Arduino and at the same time provides infrared transmitter and receiver capabilities. The Irdroino uses optical signal amplification technique which gives additional boost and extended infrared transmit range. The open source hardware design gives you the freedom to modify Irdroino design and make your own custom IR shield. All the above features make Irdroino better in comparison with the rest of the infrared remote control shields for Arduino available on the market.
 
+# Video
+
+[![Watch the video](https://irdroid.github.io/irdroino/Irdroino_demo.png)](https://www.youtube.com/watch?v=hGpqAQRMAZQ)
+
 ### The Irdroino is compatible with :
 
 * Arduino Boards
