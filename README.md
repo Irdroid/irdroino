@@ -38,7 +38,7 @@ I made this project because I believe in open source software and open source ha
 
 ### What makes it special?
 
-The Irdroino is special, because it uses a unique optical signal amplification which give significantly improoved IR range. This gives a big advantage in comparison with similar products. It is open source hardware which gives the user a freedom and it has a high quality IR receiver IC
+The Irdroino is special, because it uses a unique optical signal amplification which give significantly improoved IR range. This gives a big advantage in comparison with similar products. It is open source hardware which gives the user a freedom and it has a high quality IR receiver IC. There are two sample Arduino Sketches in this repository. The first one is for recording and reproducing IR signals, using the two buttons for transmit and receive (record) remote control buttons. The second exaple sketch turns your Arduino into a PRONTO Hex USB IR Blaster (send / Transmit IR codes via Serial/USB). 
 
 ### Get a module:
 
