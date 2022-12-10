@@ -1,0 +1,3 @@
+[submodule "Software/blast_ir"]
+	path = Software/blast_ir
+	url = git@github.com:Irdroid/blast_ir.git
